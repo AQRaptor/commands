@@ -11,7 +11,7 @@ aqr!uptime - Obtenez la disponibilité du bot.
 aqr!userinfo - Obtenez vos informations d'utilisateur.
 Musique
 aqr!deletetrack [PositionNumberInQueue] - Supprimez une chanson de la file d'attente, si vous voulez connaître votre file d'attente actuelle, tapez simplement aqr!queue et vous obtiendrez les chansons.
-aqr!joinchannel - Make the bot join in a voice channel, you must be in a voice channel.
+aqr!joinchannel - Fait rejoindre le bot dans votre canal vocal actuel, vous devez être dans un canal vocal.
 aqr!nowplaying - Affiche la chanson en cours de lecture.
 aqr!pause - Met en pause la chanson en cours de lecture.
 aqr!resume - Reprend la chanson en cours de lecture.
